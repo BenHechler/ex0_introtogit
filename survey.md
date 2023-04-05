@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Gnocchi
+Favorite musician/band: John Mayer 
+Favorite movie: Die Hard
+Requested grade in the course: 100
